@@ -1,6 +1,6 @@
 # ETI Batch Image Uploader 2020 Edition
-### Originally created by Tiko!! (updated by Rokem)###
-This program was originally developed by Tiko back in 2007 to batch upload images to LL. Unfortunately, after the domain name change to ETI, the program broke and never got any love. Fortunately, Tiko was kind enough to share the original source code with me, and I was able to update it to function properly again on ETI. With Tiko's permission, I'm now sharing this updated version with you. :D
+**Originally created by Tiko!! (updated by Rokem)**
+<p>This program was originally developed by Tiko back in 2007 to batch upload images to LL. Unfortunately, after the domain name change to ETI, the program broke and never got any love. Fortunately, Tiko was kind enough to share the original source code with me, and I was able to update it to function properly again on ETI. With Tiko's permission, I'm now sharing this updated version with you. :D
 
 ## Requirements
 You have to have the Java Runtime thing 1.5 or higher to run this, which shouldn't be a problem. You can get the latest java at: www.java.com. Using this program also requires your ETI cookie to function. If you're worried, sniff the packets or decompile the program if you want!
