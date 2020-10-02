@@ -58,9 +58,9 @@ public class MainFrame extends javax.swing.JFrame implements PropertyChangeListe
         helpButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("LL Batch Uploader by Tiko");
+        setTitle("ETI Batch Uploader by Tiko");
 
-        jLabel1.setText("LL PHPSESSID cookie:");
+        jLabel1.setText("ETI PHPSESSID cookie:");
 
         cookieField.addActionListener(new java.awt.event.ActionListener()
         {
@@ -178,7 +178,7 @@ public class MainFrame extends javax.swing.JFrame implements PropertyChangeListe
                     .add(layout.createSequentialGroup()
                         .add(jLabel1)
                         .addPreferredGap(org.jdesktop.layout.LayoutStyle.RELATED)
-                        .add(cookieField, org.jdesktop.layout.GroupLayout.DEFAULT_SIZE, 275, Short.MAX_VALUE)
+                        .add(cookieField, org.jdesktop.layout.GroupLayout.DEFAULT_SIZE, 286, Short.MAX_VALUE)
                         .addPreferredGap(org.jdesktop.layout.LayoutStyle.RELATED)
                         .add(helpButton, org.jdesktop.layout.GroupLayout.PREFERRED_SIZE, 46, org.jdesktop.layout.GroupLayout.PREFERRED_SIZE)
                         .add(39, 39, 39))))
