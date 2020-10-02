@@ -31,5 +31,5 @@ How to get your session cookie (this may vary slightly by browser):
 
 In fact, this is llamaguy approved!
 	
- > From: LlamaGuy | Posted: 7/29/2007 04:59:18 PM | Filter | Message Detail
+ > From: LlamaGuy | Posted: 7/29/2007 04:59:18 PM | Filter | Message Detail<br>
  > That's pretty cool actually.
