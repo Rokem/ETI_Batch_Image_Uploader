@@ -7,9 +7,11 @@ You have to have the Java Runtime thing 1.5 or higher to run this, which shouldn
 
 ## Installation
 If you just want the program and don't care about the looking at the source code:
-1. Download the ETI Batch Image Uploader zip file.
+1. Download the ETI Batch Uploader zip file.
 2. Extract the folder somewhere.
 3. Run the JAR file to start the program.
+
+ > *__Pro-tip:__ You can create a shortcut to the program on your desktop or start menu.*
 
 ## How to get your PHPSESSID
 This may vary slightly by browser, the following is for Chrome:
