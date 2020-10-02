@@ -11,8 +11,6 @@ If you just want the program and don't care about the looking at the source code
 2. Extract the folder somewhere.
 3. Run the JAR file to start the program.
 
- > *__Pro-tip:__ You can create a shortcut to the program on your desktop or start menu.*
-
 ## How to get your PHPSESSID
 This may vary slightly by browser, the following is for Chrome:
 1. Go to any End of the Internet page.
