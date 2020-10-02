@@ -1,5 +1,5 @@
 # ETI Batch Image Uploader 2020 Edition
-###Originally created by Tiko!! (updated by Rokem)###
+### Originally created by Tiko!! (updated by Rokem)###
 This program was originally developed by Tiko back in 2007 to batch upload images to LL. Unfortunately, after the domain name change to ETI, the program broke and never got any love. Fortunately, Tiko was kind enough to share the original source code with me, and I was able to update it to function properly again on ETI. With Tiko's permission, I'm now sharing this updated version with you. :D
 
 ## Requirements
@@ -9,7 +9,7 @@ You have to have the Java Runtime thing 1.5 or higher to run this, which shouldn
 If you just want the program and don't care about the looking at the source code:
 1. Download the ETI Batch Image Uploader zip file.
 2. Extract the folder somewhere.
-3. Run the JAR file to start the program. :D
+3. Run the JAR file to start the program.
 
 ## How to get your PHPSESSID
 This may vary slightly by browser, the following is for Chrome:
