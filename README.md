@@ -7,7 +7,7 @@ You have to have the Java Runtime thing 1.5 or higher to run this, which shouldn
 
 ## Installation
 If you just want the program and don't care about the looking at the source code:
-1. Download the [https://github.com/Rokem/ETI_Batch_Image_Uploader/raw/main/ETI%20Batch%20Uploader%20-%20v1.07.zip | ETI Batch Uploader v1.07 zip file].
+1. Download the [ETI Batch Uploader v1.07 zip file](https://github.com/Rokem/ETI_Batch_Image_Uploader/raw/main/ETI%20Batch%20Uploader%20-%20v1.07.zip).
 2. Extract the folder somewhere.
 3. Run the JAR file to start the program.
 
