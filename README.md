@@ -13,9 +13,9 @@ If you just want the program and don't care about the looking at the source code
 
 ## How to get your PHPSESSID
 This may vary slightly by browser, the following is for Chrome:
-1. Go to any End of the Internet page.
+1. Go to any ETI page.
 2. In the address bar, click the Shield or "Not Secure" icon next to the URL.
-3. Select to view cookies, expand the endoftheinter.net section, and open the cookie folder.
+3. Select to view cookies, expand the ETI section, and open the cookie folder.
 4. Select PHPSESSID and copy/paste the content section into the uploader.
     * It should look something like this: __4mx15rk498fpnimgay0h8jziv3__
 5. Select the files you want to upload using the + button.
